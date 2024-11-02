@@ -1,0 +1,32 @@
+# Magento generated files
+var/
+pub/media/
+pub/static/
+generated/
+vendor/
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.log
+
+# Composer files
+composer.lock
+
+# Magento cache and session files
+var/cache/
+var/session/
+var/view_preprocessed/
+var/report/
